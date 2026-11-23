@@ -1,0 +1,13 @@
+﻿CSO Malaysia
+
+Login gateway: game.cso-reborn.xyz:7451 (TCP)
+Game realm: game.cso-reborn.xyz:7452 (TCP)
+Create an account in the launcher: https://accounts.cso-reborn.xyz/api/auth/register (account limit controlled by server admin).
+
+Run CSO-Malaysia-Launcher-2.1.38.exe from the Start Menu or desktop shortcut.
+Public Internet connection; Tailscale is not required.
+The server owner must have the game service and required ports online.
+A DNS-only game hostname can reveal the server owner public IP.
+The host PC must be running. Do not install a database or server on the friend PC.
+Your game account is separate from your network account. Ask the host for your own game account.
+This client package contains no server password or database credentials.
