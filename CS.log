@@ -1,0 +1,1271 @@
+Log: Log file open, 11/24/26 01:41:19
+Init: Name subsystem initialized
+Init: Detected: Microsoft Windows NT 6.2 (Build: 9200)
+Init: Version: 3369 (129.29)
+Init: Compiled: Sep 23 2008 17:01:24
+Init: Command line: -updated -BishopIP=202.185.154.153 -BishopPort=7451
+Init: Character set: Unicode
+Init: Base directory: C:\Program Files (x86)\CSO Malaysia\System\
+Init: Ini:CS.ini   UserIni:User.ini
+Init: Object subsystem initialized
+Log: Splash screen file from the res of 'Launch'
+Log: 	nvldumd.dll/NVIDIA GeForce RTX 4060 Laptop GPU
+Warning: Missing Class Class Editor.TransBuffer
+Log: Game class is 'GameInfo'
+Log: Bringing Level Entry.myLevel up for play (0) appSeconds: 1.115000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+Log: Browse: Entry.ut2?Name=Player?RoleID=1?Class=KFXPawns.KFXPlayerFemale1Blue?Character=zjpwxh?team=255
+Warning: Missing Package Package fx_speech_sounds.Kill
+Warning: Missing Package Package fx_speech_sounds.Kill
+Warning: Missing Sound Sound fx_speech_sounds.Kill.kill_2nd
+Warning: Missing Package Package fx_speech_sounds.Kill
+Warning: Missing Sound Sound fx_speech_sounds.Kill.kill_3rd
+Warning: Missing Package Package fx_speech_sounds.Kill
+Warning: Missing Sound Sound fx_speech_sounds.Kill.kill_4th
+Warning: Missing Package Package fx_speech_sounds.Kill
+Warning: Missing Sound Sound fx_speech_sounds.Kill.kill_5th
+Log: ALAudio: Couldn't find a means to record audio.
+ScriptLog: New Player Player id=22e43ba8cf596238f8f2726b4cbe5a4d
+Log: Opened viewport
+Log: Enter SetRes: 1024x768 Fullscreen 1
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 77(32-bit)
+Log: Creating device
+Log: xD3D9Helper::Init (QuadEmulation)
+Warning: FAIL to find property: tab_Hot
+Warning: FAIL to find property: tab_Property
+Warning: FAIL to find property: tab_Male
+Warning: FAIL to find property: tab_Female
+Warning: FAIL to find property: tab_Weapons
+Warning: FAIL to find property: tab_Weapons
+Warning: FAIL to find property: tab_Role
+Warning: FAIL to find property: tab_Property
+Warning: FAIL to find property: AcceptMailBox
+Warning: FAIL to find property: SentMailBox
+Warning: ObjectProperty KFXGUI.KFXGUIRoomwaiting_BaseInfoPanel.UserInfoBar[0] NULL in KFXLoadConfig() 
+Warning: ObjectProperty KFXGUI.KFXGUIRoomwaiting_BaseInfoPanel.UserInfoBar[1] NULL in KFXLoadConfig() 
+Warning: ObjectProperty KFXGUI.KFXGUIRoomwaiting_BaseInfoPanel.UserInfoBar[2] NULL in KFXLoadConfig() 
+Warning: ObjectProperty KFXGUI.KFXGUIRoomwaiting_BaseInfoPanel.UserInfoBar[3] NULL in KFXLoadConfig() 
+Warning: ObjectProperty KFXGUI.KFXGUIRoomwaiting_BaseInfoPanel.UserInfoBar[4] NULL in KFXLoadConfig() 
+Warning: ObjectProperty KFXGUI.KFXGUIRoomwaiting_BaseInfoPanel.UserInfoBar[5] NULL in KFXLoadConfig() 
+Warning: ObjectProperty KFXGUI.KFXGUIRoomwaiting_BaseInfoPanel.UserInfoBar[6] NULL in KFXLoadConfig() 
+Warning: ObjectProperty KFXGUI.KFXGUIRoomwaiting_BaseInfoPanel.UserInfoBar[7] NULL in KFXLoadConfig() 
+Warning: FAIL to find property: tab_Chat
+Warning: FAIL to find property: tab_TeamChat
+Warning: FAIL to find property: tab_Chat
+Warning: FAIL to find property: tab_TeamChat
+Warning: FAIL to find property: tab_Chat
+Warning: FAIL to find property: tab_TeamChat
+Warning: FAIL to find property: panelCheatReport
+Warning: FAIL to find property: panelBugReport
+Warning: FAIL to find property: panelSearchPlayer
+Warning: FAIL to find property: panelSearchRoom
+Warning: FAIL to find property: tabPersonalRank
+Warning: Failed to load 'Class KFXGUI.KFXSTYButtonTaxis1': Failed to find object 'Class KFXGUI.KFXSTYButtonTaxis1'
+Warning: Failed to load 'Class KFXGUI.KFXSTYButtonCreateRole': Failed to find object 'Class KFXGUI.KFXSTYButtonCreateRole'
+Warning: Failed to load 'Class KFXGUI.KFXSTYButtonTaxis1': Failed to find object 'Class KFXGUI.KFXSTYButtonTaxis1'
+Warning: Failed to load 'Class KFXGUI.KSTYItemButton': Failed to find object 'Class KFXGUI.KSTYItemButton'
+Warning: Failed to load 'Class KFXGUI.KSTYBagExtendButton': Failed to find object 'Class KFXGUI.KSTYBagExtendButton'
+Log: *******[KFXNetGUIController.dll]accountname=(null)*****
+Log: Startup time: 2.036000 seconds
+Log: Precaching: Entry.LevelInfo0
+Log: Static mesh batches: 0 vertex bytes, 0 index bytes
+Error: KFXCanvas Package.KFXCanvas (Function KFXGame.KFXCanvas.KFXInitFonts:0075) Accessed array 'TextArray' out of bounds (4/4)
+ScriptLog: Font[0]: Microsoft Sans Serif|heavytiny|15|15 | FontWeight: 0
+Error: KFXCanvas Package.KFXCanvas (Function KFXGame.KFXCanvas.KFXInitFonts:0075) Accessed array 'TextArray' out of bounds (4/4)
+ScriptLog: Font[1]: Microsoft Sans Serif|heavysmall|16|16 | FontWeight: 0
+Error: KFXCanvas Package.KFXCanvas (Function KFXGame.KFXCanvas.KFXInitFonts:0075) Accessed array 'TextArray' out of bounds (4/4)
+ScriptLog: Font[2]: Microsoft Sans Serif|heavymedium|18|18 | FontWeight: 0
+Error: KFXCanvas Package.KFXCanvas (Function KFXGame.KFXCanvas.KFXInitFonts:0075) Accessed array 'TextArray' out of bounds (4/4)
+ScriptLog: Font[3]: Microsoft Sans Serif|heavylarge|20|20 | FontWeight: 0
+Error: KFXCanvas Package.KFXCanvas (Function KFXGame.KFXCanvas.KFXInitFonts:0075) Accessed array 'TextArray' out of bounds (4/4)
+ScriptLog: Font[4]: Microsoft Sans Serif|lighttiny|15|15 | FontWeight: 0
+Error: KFXCanvas Package.KFXCanvas (Function KFXGame.KFXCanvas.KFXInitFonts:0075) Accessed array 'TextArray' out of bounds (4/4)
+ScriptLog: Font[5]: Microsoft Sans Serif|lightsmall|16|16 | FontWeight: 0
+Error: KFXCanvas Package.KFXCanvas (Function KFXGame.KFXCanvas.KFXInitFonts:0075) Accessed array 'TextArray' out of bounds (4/4)
+ScriptLog: Font[6]: Microsoft Sans Serif|lightmedium|18|18 | FontWeight: 0
+Error: KFXCanvas Package.KFXCanvas (Function KFXGame.KFXCanvas.KFXInitFonts:0075) Accessed array 'TextArray' out of bounds (4/4)
+ScriptLog: Font[7]: Microsoft Sans Serif|lightlarge|20|20 | FontWeight: 0
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.007 seconds
+Log: Finished precaching textures in 0.007 seconds
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Warning: FAIL to find property: tab_Chat
+Warning: FAIL to find property: tab_TeamChat
+Warning: FAIL to find property: tab_Chat
+Warning: FAIL to find property: tab_TeamChat
+Log: Unknown style requested ItemOutline
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:00F7) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0107) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0175) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0185) Accessed array 'm_RoomData' out of bounds (0/0)
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Warning: FAIL to find property: imgLogo
+Warning: FAIL to find property: imgLogo
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00C7) Accessed array 'ImageList' out of bounds (7/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00C7) Accessed array 'ImageList' out of bounds (7/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Log: Unknown style requested ItemOutline
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_head'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_leg'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_body'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXCreateAvatar:02EA) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:00BB) Accessed None 'AvatarHead'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:00D5) Accessed None 'AvatarLegs'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:0101) Accessed None 'AvatarHead'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:011B) Accessed None 'AvatarLegs'
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00C7) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00C7) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00C7) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Log: Allocating 69984 byte dynamic vertex buffer.
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_head'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_leg'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_body'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXCreateAvatar:02EA) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Warning: FAIL to find property: tab_Chat
+Warning: FAIL to find property: tab_TeamChat
+Warning: FAIL to find property: tab_Chat
+Warning: FAIL to find property: tab_TeamChat
+Log: Unknown style requested ItemOutline
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:00F7) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0107) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0175) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0185) Accessed array 'm_RoomData' out of bounds (0/0)
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Log: Unknown style requested ItemOutline
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_head'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_leg'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_body'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXCreateAvatar:02EA) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_head'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_leg'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_body'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXCreateAvatar:02EA) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: FAIL to find property: tab_Chat
+Warning: FAIL to find property: tab_TeamChat
+Warning: FAIL to find property: tab_Chat
+Warning: FAIL to find property: tab_TeamChat
+Log: Unknown style requested ItemOutline
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:00F7) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0107) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0175) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0185) Accessed array 'm_RoomData' out of bounds (0/0)
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+ScriptLog: KFXGUI WangKai ERROR [KFXGUIMacroSettingPage] <InitContent> 'key' value init failed!
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Warning: FAIL to find property: imgLogo
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+ScriptLog: [KFXGUIHallPage]  PutChatContent nChatType = 7 szName= Deader szString= G O O D N I G H T <3
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+Warning: FAIL to find property: imgLogo
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Log: Unknown style requested ItemOutline
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_head'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_leg'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_body'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXCreateAvatar:02EA) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_head'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_leg'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_body'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXCreateAvatar:02EA) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Warning: FAIL to find property: tab_Chat
+Warning: FAIL to find property: tab_TeamChat
+Warning: FAIL to find property: tab_Chat
+Warning: FAIL to find property: tab_TeamChat
+Log: Unknown style requested ItemOutline
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:00F7) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0107) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0175) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0185) Accessed array 'm_RoomData' out of bounds (0/0)
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+ScriptLog: [KFXGUIHallPage] MyKeyEvent Call!
+Warning: FAIL to find property: imgLogo
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+ScriptLog: [KFXGUIHallPage]  PutChatContent nChatType = 7 szName= Soii szString= /030
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Log: Unknown style requested ItemOutline
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_head'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_leg'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_body'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXCreateAvatar:02EA) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:00BB) Accessed None 'AvatarHead'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:00D5) Accessed None 'AvatarLegs'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:0101) Accessed None 'AvatarHead'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:011B) Accessed None 'AvatarLegs'
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+Log: Enter SetRes: 1280x1024 Fullscreen 1
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 77(32-bit)
+Log: xD3D9Helper::Init (QuadEmulation)
+Log: Browse: 202.185.154.153:7778/Index.ut2?Name=Player?RoleID=1?Class=KFXPawns.KFXPlayerFemale1Blue?Character=zjpwxh?team=255?Session=2135165082?mapid=9
+Log: Precaching: Entry.LevelInfo0
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.003 seconds
+Log: Finished precaching textures in 0.003 seconds
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (118/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYLightServerNameLabel_Large'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (118/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (119/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYLightChatTitleLabel_Medium'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (119/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (120/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYHint_Small'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (120/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (121/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYFakeTabButton'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (121/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (122/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYBlank'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (122/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Log: NetMode now NM_Client
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 34316->31420; refs: 507738
+Log: Bringing Level DF-ShuangShiZhenChengLou.myLevel up for play (90) appSeconds: 258.009000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+Log: (Karma:) KAggregateGeomInstance: (StaticMeshActor16) Cannot 3D-Scale Karma primitives (sphere, box, cylinder).
+Log: (Karma:) KAggregateGeomInstance: (StaticMeshActor221) Cannot 3D-Scale Karma primitives (sphere, box, cylinder).
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player Player id=22e43ba8cf596238f8f2726b4cbe5a4d
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 31775->31774; refs: 509844
+Warning: CSORankRoundPRI DF-ShuangShiZhenChengLou.CSORankRoundPRI (Function Engine.PlayerReplicationInfo.PostNetReceive:008E) Accessed None 'PC'
+Log: KFXRoundPlayer setplayer WindowsViewport
+Log: Precaching: DF-ShuangShiZhenChengLou.LevelInfo0
+Log: Static mesh batches: 569052 vertex bytes, 69912 index bytes
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 32772 byte dynamic index buffer.
+Log: Allocating 57996 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.071 seconds
+Log: Finished precaching textures in 0.035 seconds
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+ScriptLog: [sk] i is  0
+ScriptLog: [sk] fxCombatMessages[i].nTag is  3
+ScriptLog: [sk] fxCombatMessages[i].Time is  29.00
+ScriptLog: [sk] i is  0
+ScriptLog: [sk] fxCombatMessages[i].nTag is  3
+ScriptLog: [sk] fxCombatMessages[i].Time is  36.54
+ScriptLog: [sk] i is  1
+ScriptLog: [sk] fxCombatMessages[i].nTag is  3
+ScriptLog: [sk] fxCombatMessages[i].Time is  39.82
+ScriptLog: [sk] i is  0
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  47.03
+ScriptLog: [sk] i is  1
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  47.68
+ScriptLog: [sk] i is  2
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  47.83
+ScriptLog: [sk] i is  3
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  49.28
+ScriptLog: [sk] i is  0
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  64.66
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapRifle DF-ShuangShiZhenChengLou.KFXWeapRifle (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapRifle DF-ShuangShiZhenChengLou.KFXWeapRifle (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapRifle DF-ShuangShiZhenChengLou.KFXWeapRifle (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapRifle DF-ShuangShiZhenChengLou.KFXWeapRifle (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapRifle DF-ShuangShiZhenChengLou.KFXWeapRifle (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapRifle DF-ShuangShiZhenChengLou.KFXWeapRifle (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.Destroyed:0032) Accessed None 'Instigator'
+Warning: KFXWeapSniper DF-ShuangShiZhenChengLou.KFXWeapSniper (Function KFXGame.KFXWeapBase.KFXClearStates:002A) Accessed None 'Instigator'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=KFXPawns.KFXPlayerFemale1Blue
+Log: URL: Adding default option Character=zjpwxh
+Log: URL: Adding default option team=255
+Log: Browse: Index.ut2?disconnect?Name=Player?Class=KFXPawns.KFXPlayerFemale1Blue?Character=zjpwxh?team=255
+Log: Failed; returning to Entry
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (118/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYLightServerNameLabel_Large'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (118/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (119/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYLightChatTitleLabel_Medium'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (119/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (120/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYHint_Small'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (120/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (121/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYFakeTabButton'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (121/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (122/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYBlank'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (122/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Log: GP=FALSE
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player Player id=22e43ba8cf596238f8f2726b4cbe5a4d
+ScriptLog: Attempting to close a non-existing menu page
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=KFXPawns.KFXPlayerFemale1Blue
+Log: URL: Adding default option Character=zjpwxh
+Log: URL: Adding default option team=255
+Log: Browse: Index.ut2?disconnect?Name=Player?Class=KFXPawns.KFXPlayerFemale1Blue?Character=zjpwxh?team=255
+Log: Failed; returning to Entry
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (118/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYLightServerNameLabel_Large'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (118/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (119/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYLightChatTitleLabel_Medium'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (119/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (120/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYHint_Small'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (120/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (121/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYFakeTabButton'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (121/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (122/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYBlank'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (122/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Log: GP=FALSE
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player Player id=22e43ba8cf596238f8f2726b4cbe5a4d
+Log: MatchViewportsToActors: KFXGUI.KFXGUIMainPage
+Log: Enter SetRes: 1024x768 Fullscreen 1
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 77(32-bit)
+Log: xD3D9Helper::Init (QuadEmulation)
+ScriptLog: Attempting to close a non-existing menu page
+Log: Unknown style requested ItemOutline
+Log: Precaching: Entry.LevelInfo0
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.009 seconds
+Log: Finished precaching textures in 0.011 seconds
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_head'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_leg'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_body'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXCreateAvatar:02EA) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:00BB) Accessed None 'AvatarHead'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:00D5) Accessed None 'AvatarLegs'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:0101) Accessed None 'AvatarHead'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:011B) Accessed None 'AvatarLegs'
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00C7) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00C7) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Log: Allocating 69984 byte dynamic vertex buffer.
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Warning: FAIL to find property: tab_Chat
+Warning: FAIL to find property: tab_TeamChat
+Warning: FAIL to find property: tab_Chat
+Warning: FAIL to find property: tab_TeamChat
+Log: Unknown style requested ItemOutline
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:00F7) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0107) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0175) Accessed array 'm_RoomData' out of bounds (0/0)
+Error: KFXGUIHallMultiColumnList Package.KFXGUIHallMultiColumnList (Function KFXGUI.KFXGUIHallMultiColumnList.GetSortString:0185) Accessed array 'm_RoomData' out of bounds (0/0)
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested PlayerBoxStyle
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Warning: FAIL to find property: imgLogo
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00C7) Accessed array 'ImageList' out of bounds (7/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.ShowListBox:00A4) Accessed array 'ImageList' out of bounds (2/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallFriendList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Error: PresenceHallPlayerListPanel Package.PresenceHallPlayerListPanel (Function KFXGUI.KFXGUIHall_PlayerListPanel.putHallBlackList:006D) Accessed array 'PlayerData' out of bounds (0/0)
+Log: Unknown style requested ItemOutline
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_head'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_leg'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_body'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXCreateAvatar:02EA) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:00BB) Accessed None 'AvatarHead'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:00D5) Accessed None 'AvatarLegs'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:0101) Accessed None 'AvatarHead'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:011B) Accessed None 'AvatarLegs'
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+Log: Enter SetRes: 1280x1024 Fullscreen 1
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 77(32-bit)
+Log: xD3D9Helper::Init (QuadEmulation)
+Log: Browse: 202.185.154.153:7780/Index.ut2?Name=Player?RoleID=1?Class=KFXPawns.KFXPlayerFemale1Blue?Character=zjpwxh?team=255?Session=2135165082?mapid=9?GAME=
+Log: Precaching: Entry.LevelInfo0
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.004 seconds
+Log: Finished precaching textures in 0.002 seconds
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (118/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYLightServerNameLabel_Large'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (118/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (119/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYLightChatTitleLabel_Medium'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (119/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (120/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYHint_Small'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (120/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (121/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYFakeTabButton'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (121/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (122/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYBlank'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (122/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Log: (Karma): Level Karma Terminated.
+NetComeGo: Close TcpipConnection 202.185.154.153:7778 11/24/26 01:48:11
+Exit: Socket shut down
+Log: NetMode now NM_Client
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 34536->31487; refs: 509170
+Log: Bringing Level DF-ShuangShiZhenChengLou.myLevel up for play (90) appSeconds: 411.761000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+Log: (Karma:) KAggregateGeomInstance: (StaticMeshActor16) Cannot 3D-Scale Karma primitives (sphere, box, cylinder).
+Log: (Karma:) KAggregateGeomInstance: (StaticMeshActor221) Cannot 3D-Scale Karma primitives (sphere, box, cylinder).
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player Player id=22e43ba8cf596238f8f2726b4cbe5a4d
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 31842->31841; refs: 511280
+Warning: CSORankMeleePRI DF-ShuangShiZhenChengLou.CSORankMeleePRI (Function Engine.PlayerReplicationInfo.PostNetReceive:008E) Accessed None 'PC'
+Log: KFXMeleePlayer setplayer WindowsViewport
+Log: Precaching: DF-ShuangShiZhenChengLou.LevelInfo0
+Log: Static mesh batches: 569052 vertex bytes, 69912 index bytes
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 32772 byte dynamic index buffer.
+Log: Allocating 57996 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.069 seconds
+Log: Finished precaching textures in 0.033 seconds
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: Failed to load 'Material fx_player_texs.female4_body_1_1': Failed to find object 'Material fx_player_texs.female4_body_1_1'
+Warning: Failed to load 'Material fx_player_texs.female4_body_1_1': Failed to find object 'Material fx_player_texs.female4_body_1_1'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+ScriptLog: [sk] i is  0
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  9.76
+ScriptLog: [sk] i is  1
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  12.39
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+ScriptLog: [sk] i is  1
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  13.97
+ScriptLog: [sk] i is  2
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  14.83
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXMeleePlayer DF-ShuangShiZhenChengLou.KFXMeleePlayer (Function Engine.Controller.ClientDying:002A) Accessed None 'Pawn'
+ScriptLog: [sk] i is  0
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  21.92
+ScriptLog: [sk] i is  1
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  23.40
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+ScriptLog: [sk] i is  0
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  27.19
+Log: PlayAnim: Sequence 'woundF_AK47' not found for mesh 'mesh_male10_head'
+ScriptLog: [sk] i is  1
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  28.99
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+ScriptLog: [sk] i is  0
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  35.84
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+ScriptLog: [sk] i is  0
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  39.41
+Log: PlayAnim: Sequence 'woundF_AK47' not found for mesh 'mesh_male10_head'
+Warning: KFXMeleePlayer DF-ShuangShiZhenChengLou.KFXMeleePlayer (Function Engine.Controller.ClientDying:002A) Accessed None 'Pawn'
+ScriptLog: [sk] i is  1
+ScriptLog: [sk] fxCombatMessages[i].nTag is  0
+ScriptLog: [sk] fxCombatMessages[i].Time is  41.32
+Warning: KFXPawn DF-ShuangShiZhenChengLou.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=KFXPawns.KFXPlayerFemale1Blue
+Log: URL: Adding default option Character=zjpwxh
+Log: URL: Adding default option team=255
+Log: Browse: Index.ut2?disconnect?Name=Player?Class=KFXPawns.KFXPlayerFemale1Blue?Character=zjpwxh?team=255
+Log: Failed; returning to Entry
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (118/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYLightServerNameLabel_Large'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (118/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (119/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYLightChatTitleLabel_Medium'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (119/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (120/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYHint_Small'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (120/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (121/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYFakeTabButton'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (121/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (122/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYBlank'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (122/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Log: GP=FALSE
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player Player id=22e43ba8cf596238f8f2726b4cbe5a4d
+ScriptLog: Attempting to close a non-existing menu page
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=KFXPawns.KFXPlayerFemale1Blue
+Log: URL: Adding default option Character=zjpwxh
+Log: URL: Adding default option team=255
+Log: Browse: Index.ut2?disconnect?Name=Player?Class=KFXPawns.KFXPlayerFemale1Blue?Character=zjpwxh?team=255
+Log: Failed; returning to Entry
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (118/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYLightServerNameLabel_Large'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (118/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (119/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYLightChatTitleLabel_Medium'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (119/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (120/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYHint_Small'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (120/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (121/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYFakeTabButton'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (121/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:0025) Accessed array 'StyleStack' out of bounds (122/118)
+ScriptLog: Style already registered 'KFXGUI.KFXSTYBlank'
+Error: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed array 'StyleStack' out of bounds (122/118)
+Warning: KFXGUIController Package.KFXGUIController (Function XInterface.GUIController.PurgeObjectReferences:00AF) Accessed None 'StyleStack'
+Log: GP=FALSE
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player Player id=22e43ba8cf596238f8f2726b4cbe5a4d
+Log: MatchViewportsToActors: KFXGUI.KFXGUIMainPage
+Log: Enter SetRes: 1024x768 Fullscreen 1
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 77(32-bit)
+Log: xD3D9Helper::Init (QuadEmulation)
+ScriptLog: Attempting to close a non-existing menu page
+Log: Unknown style requested ItemOutline
+Log: Precaching: Entry.LevelInfo0
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.010 seconds
+Log: Finished precaching textures in 0.015 seconds
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_head'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_leg'
+Log: PlayAnim: Sequence 'None' not found for mesh 'mesh_female10_body'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXCreateAvatar:02EA) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXPawn Entry.KFXPawn (Function KFXGame.KFXPawnBase.KFXSetupClientMedia:008F) Accessed None 'Controller'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:00BB) Accessed None 'AvatarHead'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:00D5) Accessed None 'AvatarLegs'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:0101) Accessed None 'AvatarHead'
+Warning: KFXGUIDudePanel Package.KFXGUIDudePanel (Function KFXGUI.KFXGUIDudePanel.DisplayPlayerModel:011B) Accessed None 'AvatarLegs'
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+ScriptLog: ERROR [KFXGUIDudePanel] CSVItem.SetCurrentRow(ItemID), ItemID = 0
+Warning: FAIL to find property: AcceptMailBox
+Warning: FAIL to find property: SentMailBox
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Log: Unknown style requested ItemOutline
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Error: KFXGUIComboBox Package.KFXGUIComboBox (Function XInterface.GUIComboBox.HideListBox:0056) Accessed array 'ImageList' out of bounds (7/0)
+Log: Unknown style requested ItemOutline
+Log: appRequestExit(0)
+Exit: Preparing to exit.
+Log: Purging garbage
+Log: Unbound to Window.dll
+Log: Unbound to Core.dll
+Log: Unbound to Engine.dll
+Exit: Game engine shut down
+Log: Unbound to WinDrv.dll
+Log: Unbound to XInterface.dll
+Exit: Windows client shut down
+Log: Unbound to D3D9Drv.dll
+Log: Unbound to Fire.dll
+Log: (Karma): Level Karma Terminated.
+Log: Unbound to KFXGame.dll
+Log: Unbound to ALAudio.dll
+Log: Waiting for file streaming thread to finish...
+Exit: OpenAL Audio subsystem shut down.
+Log: Unbound to KFXClient.dll
+NetComeGo: Close TcpipConnection 202.185.154.153:7780 11/24/26 01:48:59
+Log: Unbound to IpDrv.dll
+Log: (Karma): Level Karma Terminated.
+Exit: Socket shut down
+Log: Garbage: objects: 34301->0; refs: 511280
+Exit: Object subsystem successfully closed.
+Exit: Exiting.
+Log: FileManager: Reading 0 GByte 407 MByte 871 KByte 778 Bytes from HD took 0.567998 seconds (0.497998 reading, 0.070000 seeking).
+Log: FileManager: 0.566997 seconds spent with misc. duties
+Uninitialized: Name subsystem shut down
+Uninitialized: Memory Allocation Status
+Uninitialized: Curr Memory  0.257M /  4.227M
+Uninitialized: Peak Memory  133.603M /  136.066M
+Uninitialized: Allocs         780 Current /  244849132 Total
+Uninitialized: Log file closed, 11/24/26 01:48:59
